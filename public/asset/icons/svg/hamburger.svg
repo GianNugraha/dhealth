@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.973" height="19.315" viewBox="0 0 28.973 19.315">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222649;
+      }
+    </style>
+  </defs>
+  <path id="Icon_material-menu" data-name="Icon material-menu" class="cls-1" d="M4.5,28.315H33.473V25.1H4.5Zm0-8.048H33.473V17.048H4.5ZM4.5,9v3.219H33.473V9Z" transform="translate(-4.5 -9)"/>
+</svg>

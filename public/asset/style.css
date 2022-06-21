@@ -1,0 +1,11 @@
+.checkbox {
+    display: inline-flex;
+    cursor: pointer;
+    padding: 0.25rem 0.25rem;
+    position: relative;
+}
+
+.checkbox > span {
+    color: #34495E;
+    padding: 0.25rem 0.25rem;
+}

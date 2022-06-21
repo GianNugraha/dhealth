@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="18" viewBox="0 0 27 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fdb815;
+      }
+    </style>
+  </defs>
+  <path id="Icon_material-filter-list" data-name="Icon material-filter-list" class="cls-1" d="M15,27h6V24H15ZM4.5,9v3h27V9ZM9,19.5H27v-3H9Z" transform="translate(-4.5 -9)"/>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="130" height="116.195" viewBox="0 0 130 116.195">
+  <defs>
+    <filter id="Path_27" x="21.053" y="0" width="87.896" height="87.896" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_28" x="53.501" y="19.469" width="23" height="35.979" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_29" x="53.501" y="45.427" width="23" height="23" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_4024" data-name="Group 4024" transform="translate(-694 -1235.5)">
+    <text id="CONTRAVENTION" transform="translate(759 1348.695)" fill="#fff" font-size="15" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-64.86" y="0">CONTRAVENTION</tspan></text>
+    <g id="Icon_feather-alert-octagon" data-name="Icon feather-alert-octagon" transform="translate(726.553 1244)">
+      <g transform="matrix(1, 0, 0, 1, -32.55, -8.5)" filter="url(#Path_27)">
+        <path id="Path_27-2" data-name="Path 27" d="M22.014,3H48.881L67.9,22.014V48.881L48.881,67.9H22.014L3,48.881V22.014Z" transform="translate(29.55 5.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -32.55, -8.5)" filter="url(#Path_28)">
+        <path id="Path_28-2" data-name="Path 28" d="M18,12V24.979" transform="translate(47 15.97)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -32.55, -8.5)" filter="url(#Path_29)">
+        <path id="Path_29-2" data-name="Path 29" d="M18,24h0" transform="translate(47 29.93)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+    </g>
+  </g>
+</svg>

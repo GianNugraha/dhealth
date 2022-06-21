@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10.766" height="24.605" viewBox="0 0 10.766 24.605">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="thermometer-half" transform="translate(-9.843)">
+    <path id="Path_28" data-name="Path 28" class="cls-1" d="M12.151,3.076a3.076,3.076,0,0,1,6.152,0v11.73a5.382,5.382,0,1,1-6.152,0Zm3.076-1.538a1.538,1.538,0,0,0-1.538,1.538V15.226a.769.769,0,0,1-.385.666,3.847,3.847,0,1,0,3.845,0,.769.769,0,0,1-.385-.666V3.076a1.538,1.538,0,0,0-1.538-1.538Z" transform="translate(0)"/>
+    <path id="Path_29" data-name="Path 29" class="cls-2" d="M18.832,26.37a2.307,2.307,0,1,1-2.307-2.307A2.307,2.307,0,0,1,18.832,26.37Z" transform="translate(-1.299 -7.146)"/>
+    <path id="Path_30" data-name="Path 30" class="cls-1" d="M17.338,3.828a.385.385,0,0,1,.385.385V19.592a.385.385,0,1,1-.769,0V4.213A.385.385,0,0,1,17.338,3.828Z" transform="translate(-2.111 -1.137)"/>
+  </g>
+</svg>

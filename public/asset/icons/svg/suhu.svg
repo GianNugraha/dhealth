@@ -1,0 +1,5 @@
+<svg id="thermometer-half" xmlns="http://www.w3.org/2000/svg" width="19.438" height="44.426" viewBox="0 0 19.438 44.426">
+  <path id="Path_28" data-name="Path 28" d="M14.009,5.554a5.554,5.554,0,0,1,11.107,0V26.732a9.718,9.718,0,1,1-11.107,0Zm5.554-2.777a2.777,2.777,0,0,0-2.777,2.777V27.492a1.389,1.389,0,0,1-.694,1.2,6.946,6.946,0,1,0,6.942,0,1.389,1.389,0,0,1-.694-1.2V5.554a2.777,2.777,0,0,0-2.777-2.777Z" transform="translate(-9.843)" fill="#fff" fill-rule="evenodd"/>
+  <path id="Path_29" data-name="Path 29" d="M22.549,28.228a4.165,4.165,0,1,1-4.165-4.165A4.165,4.165,0,0,1,22.549,28.228Z" transform="translate(-8.665 6.482)" fill="#fff"/>
+  <path id="Path_30" data-name="Path 30" d="M17.647,3.828a.694.694,0,0,1,.694.694V32.29a.694.694,0,0,1-1.389,0V4.522A.694.694,0,0,1,17.647,3.828Z" transform="translate(-7.928 1.031)" fill="#fff" fill-rule="evenodd"/>
+</svg>

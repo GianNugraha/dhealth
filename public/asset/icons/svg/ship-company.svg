@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36.945" height="34.768" viewBox="0 0 36.945 34.768">
+  <g id="Group_2488" data-name="Group 2488" transform="translate(-46.186 -667.549)">
+    <g id="Group_155" data-name="Group 155" transform="translate(44.186 667.549)">
+      <path id="Path_61" data-name="Path 61" d="M2,0V21.056H17.792V0ZM16.476,19.74H11.212V15.792H8.58V19.74H3.316V1.316h13.16Z"/>
+      <path id="Path_62" data-name="Path 62" d="M4,9H6.632v2.632H4Z" transform="translate(0.632 2.844)"/>
+      <path id="Path_63" data-name="Path 63" d="M7,9H9.632v2.632H7Z" transform="translate(1.58 2.844)"/>
+      <path id="Path_64" data-name="Path 64" d="M10,9h2.632v2.632H10Z" transform="translate(2.528 2.844)"/>
+      <path id="Path_65" data-name="Path 65" d="M4,6H6.632V8.632H4Z" transform="translate(0.632 1.896)"/>
+      <path id="Path_66" data-name="Path 66" d="M7,6H9.632V8.632H7Z" transform="translate(1.58 1.896)"/>
+      <path id="Path_67" data-name="Path 67" d="M10,6h2.632V8.632H10Z" transform="translate(2.528 1.896)"/>
+      <path id="Path_68" data-name="Path 68" d="M4,3H6.632V5.632H4Z" transform="translate(0.632 0.948)"/>
+      <path id="Path_69" data-name="Path 69" d="M7,3H9.632V5.632H7Z" transform="translate(1.58 0.948)"/>
+      <path id="Path_70" data-name="Path 70" d="M10,3h2.632V5.632H10Z" transform="translate(2.528 0.948)"/>
+    </g>
+    <path id="Icon_material-directions-boat" data-name="Icon material-directions-boat" d="M24.652,25.559a8.46,8.46,0,0,1-4.812-1.588,8.275,8.275,0,0,1-9.624,0,8.46,8.46,0,0,1-4.812,1.588H3v2.406H5.405a10.62,10.62,0,0,0,4.812-1.191,10.529,10.529,0,0,0,9.624,0,10.468,10.468,0,0,0,4.812,1.191h2.406V25.559ZM5.345,23.153h.06a6.558,6.558,0,0,0,4.812-2.406,6.558,6.558,0,0,0,4.812,2.406,6.558,6.558,0,0,0,4.812-2.406,6.558,6.558,0,0,0,4.812,2.406h.06l2.274-8.036a1.267,1.267,0,0,0-.072-.938,1.2,1.2,0,0,0-.722-.6l-1.54-.505V7.515a2.413,2.413,0,0,0-2.406-2.406H18.638V1.5H11.42V5.109H7.811A2.413,2.413,0,0,0,5.405,7.515v5.558l-1.552.505a1.2,1.2,0,0,0-.722.6,1.211,1.211,0,0,0-.072.938ZM7.811,7.515H22.247V12.29l-7.218-2.37L7.811,12.29Z" transform="translate(55.473 673.707)" fill="none" stroke="#000" stroke-width="1.2"/>
+  </g>
+</svg>
